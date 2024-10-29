@@ -1,7 +1,7 @@
 # Socket Chat App
 
 ## Description
-This is a simple chat application using sockets for real-time communication.
+This is a chat application server using sockets for real-time communication.
 
 ## Features
 - Multi-client support
